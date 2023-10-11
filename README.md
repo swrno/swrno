@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swarnendu Bhandari</h1>
 
-[![An image of @swarnendu0123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swarnendu0123)](https://holopin.io/@swarnendu0123)
+[![An image of @swarnendu0123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/swarnendu013)](https://holopin.io/@swarnendu0123)
 
 <h3 align="center">A passionate Open Source Contributer</h3>
 
