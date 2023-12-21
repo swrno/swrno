@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnendu0123&label=Profile%20views&color=0e75b6&style=flat" alt="swarnendu0123" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://swarnendu0123.github.io/Portfolio/](https://swarnendu0123.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [https://swarnendu.biz/](https://swarnendu.biz/)
 
 - 💬 Ask me about **Machine Learning, Data Science, Software Development, Open Source**
 
