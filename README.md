@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swarnendu Bhandari</h1>
 
-<h3 align="center">Wall of memories by [Hacktoberfest'23](https://hacktoberfest.com/)</h3>
+<h3 align="center">Wall of memories by <a href="https://hacktoberfest.com/">Hacktoberfest'23</a> </h3>
 
 [![An image of @swarnendu0123's Holopin badges, which is a link to view their full Holopin profile](./swarnendu0123.png)](https://holopin.io/@swarnendu0123)
 
