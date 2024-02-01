@@ -27,3 +27,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swarnendu0123&show_icons=true&locale=en" alt="swarnendu0123" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnendu0123&" alt="swarnendu0123" /></p>
+
+[![Swarnendu0123's GitHub | Stats](https://stats.quine.sh/Swarnendu0123/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=Swarnendu0123)
