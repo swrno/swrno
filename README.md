@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Swarnendu Bhandari</h1>
+<h1 align="center">Hi 👋, I'm Swarnendu</h1>
 
 <h3 align="center">Wall of memories by <a href="https://hacktoberfest.com/">Hacktoberfest'23</a> </h3>
 
