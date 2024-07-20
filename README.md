@@ -10,10 +10,10 @@
 ```js
 Skills = ["System Designing", "Typescript", "Rust", "C", "Java", "Firebase", "React", "WebRTC", "WebSockets", "GRPC"]
 ```
+Writings: https://swarnendu.biz/writings
 
 ## Statistics 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=swarnendu0123&show_icons=true&locale=en" alt="swarnendu0123" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnendu0123&" alt="swarnendu0123" />
-
 
 ## Stay Connected
 - Email: clickswarnendu123@gmail.com
