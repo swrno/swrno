@@ -8,7 +8,7 @@
 
 
 ```js
-Skills = [Typescript, Rust, C, Java, Firebase, React, WebRTC, WebSockets, GRPC]
+Skills = ["System Designing", "Typescript", "Rust", "C", "Java", "Firebase", "React", "WebRTC", "WebSockets", "GRPC"]
 ```
 
 ## Statistics 
