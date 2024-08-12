@@ -3,9 +3,17 @@
 ![image](https://github.com/user-attachments/assets/16f5942a-d3f1-4d89-91fb-0cc271c8c703)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnendu0123&label=Profile%20views&color=0e75b6&style=flat" alt="swarnendu0123" /> </p>
 
-```js
-Skills = ["System Designing", "Typescript", "Rust", "C", "Java", "Firebase", "React", "WebRTC", "WebSockets", "GRPC"]
-```
+
+| Key       | Values |
+|-----------------|-----------------|
+| Languages       | Java, Python, Typescript, Javascript, C, Rust, Solidity |
+| Libraries and Frameworks | React, Next.js, Prisma & ORMs, Mongoose    | 
+| Advanced Skills  | WebRTC, WebSocket, GRPC    |
+| DevOps    | Docker, GitHub Automation, CI/CD, AWS   |
+
+
+
+
 Writings: https://swarnendu.biz/writings
 
 ## Statistics 
