@@ -6,12 +6,10 @@
 
 | Key       | Values |
 |-----------------|-----------------|
-| Languages       | Java, Python, Typescript, Javascript, C, Rust, Solidity |
-| Libraries and Frameworks | React, Next.js, Prisma & ORMs, Express.js   | 
-| Advanced Concepts  | WebRTC, WebSocket, GRPC    |
-| DevOps    | Docker, GitHub Automation, CI/CD, AWS, Cloudflare   |
-
-
+| Languages       | Typescript, Python, C, Rust, Java, Javascript, Solidity |
+| Libraries and Frameworks | Next.js, React.js, Prisma, Numpy, Pandas, Express.js, OpenAPI Spec   | 
+| Tools and Software | Git, GitHub, Docker, Bash, Postman, Linux, Firebase, Google Gemini APIs |
+| Advanced Concepts  | System Designing, Cloudflayer Workers, WebRTC, WebSockets, GRPC, HLD, LLD    |
 
 
 Writings: https://swarnendu.biz/writings
