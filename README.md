@@ -7,9 +7,9 @@
 | Key       | Values |
 |-----------------|-----------------|
 | Languages       | Java, Python, Typescript, Javascript, C, Rust, Solidity |
-| Libraries and Frameworks | React, Next.js, Prisma & ORMs, Mongoose    | 
-| Advanced Skills  | WebRTC, WebSocket, GRPC    |
-| DevOps    | Docker, GitHub Automation, CI/CD, AWS   |
+| Libraries and Frameworks | React, Next.js, Prisma & ORMs, Express.js   | 
+| Advanced Concepts  | WebRTC, WebSocket, GRPC    |
+| DevOps    | Docker, GitHub Automation, CI/CD, AWS, Cloudflare   |
 
 
 
