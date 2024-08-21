@@ -12,7 +12,7 @@
 | Advanced Concepts  | System Designing, Cloudflayer Workers, WebRTC, WebSockets, GRPC, HLD, LLD    |
 
 
-Writings: https://swarnendu.biz/writings
+Writings: https://swarnendu.wiki/
 
 ## Statistics 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=swarnendu0123&show_icons=true&locale=en" alt="swarnendu0123" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnendu0123&" alt="swarnendu0123" />
@@ -20,7 +20,7 @@ Writings: https://swarnendu.biz/writings
 ## Stay Connected
 - Email: clickswarnendu123@gmail.com
 - [in/swarnendu-bhandari-847590290](https://www.linkedin.com/in/swarnendu-bhandari-847590290)
-- Website: https://swarnendu.biz
+- Website: https://swarnendu.wiki
 <h3 align="center">Wall of memories by <a href="https://hacktoberfest.com/">Hacktoberfest'23</a> </h3>
 
 [![An image of @swarnendu0123's Holopin badges, which is a link to view their full Holopin profile](./swarnendu0123.png)](https://holopin.io/@swarnendu0123)
