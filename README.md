@@ -18,7 +18,7 @@ Writings: https://swarnendu.wiki/
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=swarnendu0123&show_icons=true&locale=en" alt="swarnendu0123" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swarnendu0123&" alt="swarnendu0123" />
 
 ## Stay Connected
-- Email: clickswarnendu123@gmail.com
+- Email: contact@swarnendu.wiki
 - [in/swarnendu-bhandari-847590290](https://www.linkedin.com/in/swarnendu-bhandari-847590290)
 - Website: https://swarnendu.wiki
 <h3 align="center">Wall of memories by <a href="https://hacktoberfest.com/">Hacktoberfest'23</a> </h3>
