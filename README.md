@@ -19,7 +19,7 @@ Writings: https://swarnendu.wiki
 
 ## Stay Connected
 - Email: contact@swarnendu.wiki
-- [in/swarnendu-bhandari-847590290](https://www.linkedin.com/in/swarnendu-bhandari-847590290)
+- [in/swarnendu-bhandari](https://www.linkedin.com/in/swarnendu-bhandari)
 - Website: https://swarnendu.wiki
 <h3 align="center">Wall of memories by <a href="https://hacktoberfest.com/">Hacktoberfest'23</a> </h3>
 
