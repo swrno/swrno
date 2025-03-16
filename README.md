@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Swarnendu</h1>
+<h1 align="center">Swarnendu</h1>
 
-![image](https://github.com/user-attachments/assets/16f5942a-d3f1-4d89-91fb-0cc271c8c703)
+![WhatsApp Image 2025-03-16 at 16 04 58](https://github.com/user-attachments/assets/48eb27e5-382a-4ec1-806c-397b128a51c6)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnendu0123&label=Profile%20views&color=0e75b6&style=flat" alt="swarnendu0123" /> </p>
 
 
